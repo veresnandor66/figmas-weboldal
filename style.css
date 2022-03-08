@@ -1,0 +1,164 @@
+.rectangle1{
+    position: absolute;
+width: 1920px;
+height: 100px;
+left: 5px;
+top: 0px;
+background-color: #3a3b3c;
+}
+.rectangle2{
+    position: absolute;
+width: 300px;
+height: 1080px;
+left: -1px;
+top: 0px;
+background: #242526;
+}
+.rectangle3{
+    position: absolute;
+width: 1621px;
+height: 983px;
+left: 299px;
+top: 100px;
+background: #0B0B0B;
+}
+.button1{
+    position: absolute;
+width: 175px;
+height: 50px;
+left: 310px;
+top: 25px;
+background: #3A3B3C;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+text-align: center;
+color: white;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.button2{
+    position: absolute;
+width: 175px;
+height: 50px;
+left: 510px;
+top: 25px;
+background: #3A3B3C;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+text-align: center;
+color: white;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.button3{
+    position: absolute;
+    width: 175px;
+    height: 50px;
+    left: 872px;
+    top: 25px;
+    background: #3A3B3C;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    text-align: center;
+color: green;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.button4{
+    position: absolute;
+    width: 175px;
+    height: 50px;
+    left: 1503px;
+    top: 25px;
+    background: #3A3B3C;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    text-align: center;
+color: white;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.button5{
+    position: absolute;
+    width: 175px;
+    height: 50px;
+    left: 1700px;
+    top: 25px;
+    background: #3A3B3C;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    text-align: center;
+color: white;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+b{
+    position: absolute;
+    width: 84px;
+    height: 22px;
+    left: 107px;
+    top: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+#gta5logo{
+    position: absolute;
+width: 97.5px;
+height: 90px;
+left: 0px;
+top: 5px;
+
+background: url(image.png);
+}
+.kor1{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 235px;
+top: 1018px;
+border-radius: 50%;
+background: #3A3B3C;
+text-align: center;
+color: white;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.kor2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1825px;
+    top: 1015px;
+    border-radius: 50%;
+    background: #242526;
+    text-align: center;
+color: white;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+background: #242526;
+}
+#menu1{
+    position: absolute;
+width: 1198px;
+height: 431px;
+left: 310px;
+top: 122px;
+
+background: url(image.png);
+}
+#menu2{
+    position: absolute;
+width: 1196px;
+height: 443px;
+left: 307px;
+top: 553px;
+
+background: url(image.png);
+}
